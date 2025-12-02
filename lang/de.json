@@ -1,0 +1,31 @@
+{
+    "task_1":   "Hier ist deine erste Aufgabe:\nKlatsche dreimal in die Hände und\nscanne dann deine Armband erneut.\n\nDafür erhältst du 2 Punkte.",
+    "task_2":   "Klopfe dir selber auf die Schulter \nund sage «Gut gemacht!».\nScanne dann wieder dein Armband.\n\nDafür erhältst du 1 Punkt.",
+    "task_3":   "Suche beim Abfalleimer am Ausgang zum \nTreppenhaus eine Zahl.\nKomm dann zurück und klatsche so \noft in die Hände.\nScanne dann dein Armband.\n\nDafür erhältst du 3 Punkte.",
+    "task_4":   "Bringe eine andere Person zu mir.\nScanne zuerst dein eigenes Armband\nund dann das Band der neuen Person\n\nDafür erhältst du 5 Punkte.",
+    "task_5":   "Laufe triumphierend einmal um das \nExponat «Windy Pictures» herum.\nScanne dann dein Armband.\n\nDafür erhältst du 3 Punkte.",
+    "task_6":   "Bringe 2 neue Personen zu mir. \nRuft alle gleichzeitig \n«Wir lieben das Technorama!».\nScanne dann deine eigenes Armband\nund danach die Bänder der neuen Personen\n\nDafür erhältst du 10 Punkte.",
+    "task_7":   "Gehe zur Blitzshow-Bühne und \nbeginne dort um Punkt 12:45 Uhr,\nzu klatschen und zu jubeln.",
+
+    "nice_1":  "Gut gemacht!",
+    "nice_2":  "Sehr gut!",
+    "nice_3":  "OK!",
+    "nice_4":  "Wunderbar!",
+    "nice_5":  "Hervorragend!",
+    "nice_6":  "Super!",
+
+    "bad_1":   "So nicht!",
+    "bad_2":   "Also nein!",
+    "bad_3":   "Das kannst du besser, oder?!",
+    "bad_4":   "Hast du nicht richtig gelesen!",
+    "bad_5":   "Ich bin enttäuscht!",
+    "bad_6":   "Oh menno!",
+
+    "general_1":    "Willkommen!",
+    "general_2":    "Deine neue Punktzahl ist",
+    "general_3":    "Deine Punktzahl hat sich nicht verändert",
+    "general_4":    "Gratuliere!\nDu hast gewonnen, danke fürs Spielen!\nHier ist deine Endpunktzahl:",
+    "general_5":    "Schön hast du mitgemacht aber jetzt reichts!\nSave the planet, keine Zetteli mehr!",
+    "general_6":    "Übrige Versuche:",
+    "general_7":    "Schade, du hast leider die maximale Anzahl an\nVersuchen erreicht. Das Spiel ist für dich an\ndieser Stelle zu Ende.\nVielen Dank fürs Mitspielen!"
+}

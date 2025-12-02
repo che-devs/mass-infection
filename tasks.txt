@@ -1,0 +1,52 @@
+Gut gemacht! Nummer 123456, du hast jetzt 1 Punkt.
+Nächste Aufgabe: Klatsche dreimal in die Hände
+Scanne dann deine Identitätskarte. 
+Dafür erhältst du 2 Punkte.
+
+(Falls nicht geklatscht wurde:)
+So nicht! Nummer 123456 Du hast deine Aufgabe nicht erledigt, 2 Punkte Abzug. 
+Du hast jetzt X Punkte.
+Probiere es nochmal und scanne erst dann den Code.
+
+(Falls geklatscht wurde:)
+Sehr gut! Nummer 123456, du hast jetzt X Punkte.
+Klopfe dir selber auf die Schulter und sage «Gut gemacht!». 
+Scanne dann deine Identitätskarte. Dafür erhältst du 1 Punkt.
+
+OK! Nummer 123456, du hast jetzt X Punkte.
+Suche beim Abfalleimer am Ausgang zum Treppenhaus eine Zahl. Komm dann zurück und klatsche so oft in die Hände. 
+Scanne dann deine Identitätskarte. Dafür erhältst du 3 Punkte.
+
+Wunderbar! Nummer 123456, du hast jetzt X Punkte.
+Bringe eine weitere Person zu mir. Gib die Nummer auf dem Eintrittsband der Person ein, um sie ebenfalls zu registrieren. 
+Scanne danach deine eigene Identitätskarte. Dafür erhältst du 5 Punkte. 
+(Die andere Person darf mit ihrer eigenen Identitätskarte weitermachen.)
+
+(Wenn in den letzten 30s eine neue Person registriert wurde:)
+Hervorragend! Nummer 123456, du hast jetzt X Punkte.
+Laufe triumphierend einmal um das Exponat «Windy Pictures» herum.
+Scanne dann deine Identitätskarte. Dafür erhältst du 3 Punkte.
+
+
+Super! Nummer 123456, du hast jetzt X Punkte.
+Bringe 2 neue Personen zu mir. Ruft alle gleichzeitig «Ein Hoch auf Tasky!». 
+Gebt dann die Nummern der beiden neuen Personen im Tastenfeld ein.
+Scanne zum Schluss deine Identitätskarte. Dafür erhältst du 10 Punkte.
+
+Sehr gut! Nummer 123456, du hast jetzt X Punkte.
+Finde eine Person, die du noch nie zuvor gesehen hast und bringe sie her. Stellt euch kurz einander vor. Gib die Nummer der neuen Person ein. 
+Scanne danach deine eigene Identitätskarte. Dafür erhältst du 5 Punkte. 
+
+
+(vormittags:)
+Gut gemacht! Nummer 123456, du hast jetzt X Punkte.
+Nächste Aufgabe: Geh um 12:15 Uhr in den Bereich Strom und Magnete. Stell dich vor die 
+Blitzshow-Bühne und fang um Punkt 12:17 Uhr an, laut Happy Birthday zu singen. 
+Komm danach zurück und scanne deine Identitätskarte. Dafür erhältst du 20 Punkte.
+
+
+(nachmittags:)
+Gut gemacht! Nummer 123456, du hast jetzt X Punkte.
+Nächste Aufgabe: Geh um 15:00 Uhr in den Bereich Strom und Magnete. Stell dich vor die 
+Blitzshow-Bühne und fang um Punkt 15:02 Uhr an, laut Happy Birthday zu singen. 
+Komm danach zurück und scanne deine Identitätskarte. Dafür erhältst du 20 Punkte.
