@@ -17,7 +17,7 @@ To install the project locally, please follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/username/projectname.git
+   git clone https://https://github.com/che-devs/mass-infection.git
    cd projectname
    ```
 
